@@ -1,0 +1,6 @@
+[08-Sep-2008 07:46:30] PHP Fatal error:  Allowed memory size of 262144 bytes exhausted (tried to allocate 24088 bytes) in /home/crm65/public_html/phplist3/ut.php on line 24
+[08-Sep-2008 07:53:34] PHP Fatal error:  Allowed memory size of 262144 bytes exhausted (tried to allocate 24088 bytes) in /home/crm65/public_html/phplist3/ut.php on line 24
+[25-Sep-2008 13:50:47] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/php52/lib/php/extensions/curl.so' - libcrypto.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[25-Sep-2008 13:50:47] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/php52/lib/php/extensions/http.so' - libcrypto.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[25-Sep-2008 13:54:00] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/php52/lib/php/extensions/curl.so' - libcrypto.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[25-Sep-2008 13:54:00] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/php52/lib/php/extensions/http.so' - libcrypto.so.0: cannot open shared object file: No such file or directory in Unknown on line 0

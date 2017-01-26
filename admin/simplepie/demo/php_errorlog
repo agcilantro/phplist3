@@ -1,0 +1,12 @@
+[07-Sep-2008 11:03:30] PHP Warning:  ./cache/355e6eeb8e2d92eab7dd58deb8c97a66.spc is not writeable in /home/crm65/public_html/phplist3/admin/simplepie/simplepie.inc on line 1769
+[07-Sep-2008 11:07:55] PHP Warning:  ./cache/355e6eeb8e2d92eab7dd58deb8c97a66.spc is not writeable in /home/crm65/public_html/phplist3/admin/simplepie/simplepie.inc on line 1769
+[07-Sep-2008 11:10:09] PHP Warning:  ./cache/355e6eeb8e2d92eab7dd58deb8c97a66.spc is not writeable in /home/crm65/public_html/phplist3/admin/simplepie/simplepie.inc on line 1769
+[07-Sep-2008 11:19:21] PHP Warning:  ./cache/355e6eeb8e2d92eab7dd58deb8c97a66.spc is not writeable in /home/crm65/public_html/phplist3/admin/simplepie/simplepie.inc on line 1769
+[07-Sep-2008 11:28:59] PHP Notice: A feed could not be found at http://store.conviviumbrands.com in /home/crm65/public_html/phplist3/admin/simplepie/simplepie.inc on line 1673
+[07-Sep-2008 11:29:11] PHP Notice: A feed could not be found at http://store.conviviumbrands.com/privatelabel\ in /home/crm65/public_html/phplist3/admin/simplepie/simplepie.inc on line 1673
+[07-Sep-2008 11:29:14] PHP Notice: A feed could not be found at http://store.conviviumbrands.com/privatelabel in /home/crm65/public_html/phplist3/admin/simplepie/simplepie.inc on line 1673
+[07-Sep-2008 11:30:19] PHP Notice: A feed could not be found at http://www.conviviumbrands.com/aggregator/categories/2 in /home/crm65/public_html/phplist3/admin/simplepie/simplepie.inc on line 1673
+[07-Sep-2008 11:30:34] PHP Notice: A feed could not be found at http://www.conviviumbrands.com/aggregator/categories/2 in /home/crm65/public_html/phplist3/admin/simplepie/simplepie.inc on line 1673
+[07-Sep-2008 11:31:09] PHP Notice: A feed could not be found at http://www.conviviumbrands.com/aggregator/rss/2 in /home/crm65/public_html/phplist3/admin/simplepie/simplepie.inc on line 1673
+[07-Sep-2008 11:31:14] PHP Notice: A feed could not be found at http://www.conviviumbrands.com/aggregator/rss/2 in /home/crm65/public_html/phplist3/admin/simplepie/simplepie.inc on line 1673
+[07-Sep-2008 13:23:54] PHP Notice: A feed could not be found at http://www.conviviumbrands.com/aggregator/rss/2 in /home/crm65/public_html/phplist3/admin/simplepie/simplepie.inc on line 1673
